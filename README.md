@@ -35,7 +35,8 @@
   
 This is a fitness tracker app that allows you to enter the type of exercise you have done and log the duration, distance , weight, and rep for each type of exercise. The app then provides a visual representation for you’re your exercise for the last 7 days. The app uses a node express built with a monogo  atlas deployed none sql database for the backend to store the users  workouts.  
 
-  
+  ![image](https://user-images.githubusercontent.com/75341811/124389466-1dc1f400-dcdf-11eb-8b0f-18be1f1cb662.png)
+
 
 
   
